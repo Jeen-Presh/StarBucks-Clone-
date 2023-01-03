@@ -1,0 +1,21 @@
+.footer-container{
+    width: 100%;
+    max-width: 80em;
+    margin: 0 auto;
+    padding: 0 1.875rem;
+}
+
+.social-links img {
+    width: 2.188rem;
+    height: 2.188rem;
+}
+
+.social-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    li{
+        margin-right: 1.25rem;
+    }
+}

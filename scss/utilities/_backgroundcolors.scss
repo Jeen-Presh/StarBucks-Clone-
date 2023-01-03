@@ -1,0 +1,21 @@
+@use "../abstracts/" as *;
+
+.bg-primary{
+    background-color: $color-primary;
+    color: $color-white;
+}
+
+.bg-secondary{
+    background-color: $color-secondary;
+    color: $color-white;
+}
+
+.bg-extra{
+    background-color: $color-extra;
+    color: $color-body;
+}
+
+.bg-dark{
+    background-color: $color-body;
+    color: $color-white;
+}
